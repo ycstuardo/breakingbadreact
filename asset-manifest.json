@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/breakingbadreact/static/css/main.0eb5f509.css",
+    "main.js": "/breakingbadreact/static/js/main.707c20cd.js",
+    "static/media/meta-azul.jpg": "/breakingbadreact/static/media/meta-azul.6ee22c21a815af46a3a5.jpg",
+    "static/media/bad.png": "/breakingbadreact/static/media/bad.92291d9e59315a7ec8d5.png",
+    "index.html": "/breakingbadreact/index.html",
+    "main.0eb5f509.css.map": "/breakingbadreact/static/css/main.0eb5f509.css.map",
+    "main.707c20cd.js.map": "/breakingbadreact/static/js/main.707c20cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb5f509.css",
+    "static/js/main.707c20cd.js"
+  ]
+}
